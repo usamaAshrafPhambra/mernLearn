@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://usama478:usama478@mernlearn-shard-00-00.3g5ea.mongodb.net:27017,mernlearn-shard-00-01.3g5ea.mongodb.net:27017,mernlearn-shard-00-02.3g5ea.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-37iojk-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"mySecrettoken"
+}
